@@ -1,0 +1,7 @@
+./board.o:1: MAJOR:C-O1
+./find_square.o:1: MAJOR:C-O1
+./main.o:1: MAJOR:C-O1
+./my.o:1: MAJOR:C-O1
+./my2.o:1: MAJOR:C-O1
+./utils.o:1: MAJOR:C-O1
+./utils2.o:1: MAJOR:C-O1
