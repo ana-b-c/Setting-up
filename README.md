@@ -2,6 +2,7 @@
 
 # The project:
 You must find the largest possible square on a board while avoiding obstacles.
+
 The board can be obtained two ways. The first one is by reading a file passed as the program’s
 argument.
 
